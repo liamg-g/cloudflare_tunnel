@@ -7,7 +7,7 @@ A step-by-step guide to deploying a lightweight, secure Cloudflare Tunnel inside
 
 ---
 
-## 📋 System Requirements & Resources
+## System Requirements & Resources
 
 Cloudflare's `cloudflared` daemon is minimal and requires low compute resources.
 
@@ -22,7 +22,7 @@ Cloudflare's `cloudflared` daemon is minimal and requires low compute resources.
 
 ---
 
-## 🛠️ Step-by-Step Installation
+## Step-by-Step Installation
 
 ### Step 1: Prepare the LXC Container
 1. Download an **Ubuntu LTS** container template in your hypervisor (e.g., Proxmox VE).
